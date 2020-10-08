@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+<A>
+<Item>
+	<name>김탐정</name>
+	<text>잘생기고 똑똑한 고등학생.
+명석한 두뇌로 사건을 파헤치는 것을 좋아한다.</text>
+	<Age>19</Age>
+  </Item>
+  <Item>
+	<name>한나정</name>
+	<text>고등학교에서의 질긴 인연으로 1학년때 부터 현재까지 같은 반으로 제일 친한 친구다.
+멀쩡하게 생겼지만 어두운 성격을 가졌다.</text>
+	<text>시체 발견 직전부터 한 시간 동안 화장실에 있었다.</text>
+	<Age>19</Age>
+  </Item>
+  <Item>
+	<name>나미녀</name>
+	<text>청순한 외모와 밝은 성격덕에 인기가 많다.
+차임도가 구애를 계속해온 대상이다.</text>
+	<text>사건당일 방과후 차임도가 불러냈을 때 나미녀는 교내에 있었다.</text>
+	<Age>19</Age>
+  </Item>
+  <Item>
+	<name>차임도</name>
+	<text>나미녀에게 3년 째 구애중인 불굴의 흉(凶)소년.
+덕분에 교내에 악명이 자자하다.</text>
+	<text>유력한 용의자로써 경찰조사 직후 학생지도실로 끌려갔다.</text>
+	<text>수사에 비협조적이다.</text>
+	<text>미녀가 좋아한다는 사람에게 엄청난 분노를 품고있다.</text>
+	<Age>19</Age>
+  </Item>
+  <Item>
+	<name>조신혜</name>
+	<text>7반의 여학생으로 운동부다.
+결코 좋다고 하지 못할 성격이기 때문에 가까이 하지 않는 것이 좋다.</text>
+	<text>매일 양갈래머리를 하고 다닌다고 한다.</text>
+	<Age>19</Age>
+  </Item>
+  <Item>
+	<name>조사건</name>
+	<text>이번 사건의 담당형사.
+믿음직스럽지 못하며 관심종자의 기질이 보인다.</text>
+	<Age>28</Age>
+  </Item>
+  </A>
+</root>

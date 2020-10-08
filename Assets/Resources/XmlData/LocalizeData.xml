@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Text key="gametitle">
+		<Korean>fgdf</Korean>
+		<English>dfgdf</English>
+		<Japanese>dfg</Japanese>
+	</Text>
+	<Text key="Setting">
+		<Korean>설정</Korean>
+		<English>Setting</English>
+		<Japanese>設定</Japanese>
+	</Text>
+	<Text key="Volume">
+		<Korean>소리크기</Korean>
+		<English>Volume</English>
+		<Japanese>音量</Japanese>
+	</Text>
+	<Text key="BGM">
+		<Korean>배경음</Korean>
+		<English>BGM</English>
+		<Japanese>BGM</Japanese>
+	</Text>
+	<Text key="SFX">
+		<Korean>효과음</Korean>
+		<English>SFX</English>
+		<Japanese>SFX</Japanese>
+	</Text>
+	<Text key="Enable skip only read text">
+		<Korean>읽은 대사만 스킵 활성화</Korean>
+		<English>Enable skip only read text</English>
+		<Japanese>読んだセリフだけスキップ</Japanese>
+	</Text>
+	<Text key="Vibration">
+		<Korean>진동</Korean>
+		<English>Vibration</English>
+		<Japanese>振動</Japanese>
+	</Text>
+	<Text key="Chapter">
+		<Korean>챕터</Korean>
+		<English>Chapter</English>
+		<Japanese>Chapter</Japanese>
+	</Text>
+	<Text key="Episode">
+		<Korean>에피소드</Korean>
+		<English>Episode</English>
+		<Japanese>Episode</Japanese>
+	</Text>
+	<Text key="Please purchase">
+		<Korean>상품을 구매해주세요.</Korean>
+		<English>Purchase first!</English>
+		<Japanese>課金エピソード</Japanese>
+	</Text>
+	<Text key="trial episode">
+		<Korean>체험 에피소드</Korean>
+		<English>Trial episode</English>
+	</Text>
+	<Text key="Main episode">
+		<Korean>메인 에피소드</Korean>
+		<English>Main episode</English>
+		<Japanese>メインエピソード</Japanese>
+	</Text>
+	<Text key="One day morning">
+		<Korean>어느날 아침</Korean>
+		<English>One day morning</English>
+		<Japanese>ある日の朝</Japanese>
+	</Text>
+	<Text key="Initiation of inference">
+		<Korean>추리의 시작</Korean>
+		<English>Initiation of inference</English>
+		<Japanese>推理の始り</Japanese>
+	</Text>
+	<Text key="Go back to title">
+		<Korean>타이틀로</Korean>
+		<English>Go back to title</English>
+		<Japanese>タイトルに戻る</Japanese>
+	</Text>
+	<Text key="tutot0">
+		<Korean>확신제시</Korean>
+		<English>Conviction mode</English>
+		<Japanese>確信モード</Japanese>
+	</Text>
+	<Text key="tuto0">
+		<Korean>모순을 지적하기 위해 제시를 할 때, 자신이 낼 답에 확신이 있다면 &lt;color="#FF3636"&gt;'확신제시'&lt;/color&gt;를 시전할 수 있습니다.
+
+증거물을 선택 후 제시버튼을 슬라이드 하면 제시버튼이 붉게 변하고 그 상태가 &lt;color="#FF3636"&gt;확신상태&lt;/color&gt;입니다.
+
+확신상태에서 제시하여 성공하면 잃은 신뢰도를 돌려받지만, 실패하면 2배의 신뢰도를 잃으니 주의해서 사용하여야 합니다.</Korean>
+		<English>When you present evidence to point out contradictions, you can change presenting mode to &lt;color="#FF3636"&gt;「Conviction」&lt;/color&gt; mode.
+
+If you slide the Present button after selecting the evidence, the Present button changes color to red. that state is the &lt;color="#FF3636"&gt;「Conviction mode」&lt;/color&gt;.
+
+If you succeed in presenting evidence in Conviction mode, you will get back the credibility you lost, but if you fail, you will get double penalties. use it with caution.</English>
+		<Japanese>矛盾を指摘するために提示をするとき、自分が出す答えに確信がある場合は&lt;color="#FF3636"&gt;「確信提示」&lt;/color&gt;を使用することができます。
+
+証拠物を選択した後,提示ボタンをスライドすると,提示ボタンが赤く変化し、その状態が&lt;color="#FF3636"&gt;「確信状態」&lt;/color&gt;です。
+
+確信の状態で提示して成功すると、失われた信頼性を返し受けるが、失敗すれば2倍の信頼性を失いので注意して使用すべきです。</Japanese>
+	</Text>
+	<Text key="tutot1">
+		<Korean>압박심문</Korean>
+		<English>Press Interrogation</English>
+		<Japanese>圧迫尋問</Japanese>
+	</Text>
+	<Text key="tuto1">
+		<Korean>상대방이 거짓말을 하고있는 듯한 느낌이 듭니다.
+이럴때는 상대방의 말꼬리를 물고 늘어지거나, 날카로운 질문을 하는 것으로 심리적으로 압박하여, 실언을 유도해야 합니다.
+압박은 계속해서 할 수 있지만, 무리하게 압박을 계속하다간, 신뢰도를 잃을 수 있으니, 상대와 주변의 반응을 잘 살펴가며 압박을 해야합니다. 하지만, 상황에 따라서는 신뢰를 잃어가면서 까지 압박을 해야하는 상황이 있을지도 모릅니다.</Korean>
+		<English>I feel like the opponent is lying.
+In this case, you have to psychologically oppress and induce a slip of tongue by picking up the opponent's words and asking a sharp question.
+You can continue to put pressure, but if you go excessive, you can lose credibility. so you have to deal with the opponent while carefully observing surrounder's reaction.</English>
+		<Japanese>相手が嘘をついているような感じがします。
+こんな時は相手の言葉尻をとったり,鋭い質問をすることで心理的に圧迫し,失言を誘導しなければなりません。
+圧迫は引き続き行うことができますが、無理な圧迫を続けては,信頼度を失うこともあるので,相手と周りの反応をよく察しながら圧迫をしなければなりません。 でも,状況によっては信頼を失ってまで圧迫しなければならない状況があるかもしれません。</Japanese>
+	</Text>
+	<Text key="tutot2">
+		<Korean>압박하기</Korean>
+		<English>Putting pressure</English>
+		<Japanese>圧迫</Japanese>
+	</Text>
+	<Text key="tuto2">
+		<Korean>상대방의 발언이 끝난 후 발언에 모순이 있다는 걸 증명할 증거물이 있다면, 오른쪽 상단의 제시하기 버튼을 눌러 모순을 지적합니다.
+
+말꼬리를 물고 늘어져 상대의 심리를 더욱 압박하고 싶다면 '압박'을 선택합니다.
+압박하기를 선택할 때는 상대방과 주변의 반응을 잘 보고 선택해야 신뢰도가 깎이지 않습니다.
+
+더이상 압박하는 것이 위험하다고 판단 될 때는 '그만두기'를 선택하면 최초의 발언으로 돌아갑니다.
+
+여기선 좀 더 압박해서 상대방이 파고들 여지가 있는 발언을 하도록 유도해봅시다.</Korean>
+		<English>If there is a evidence to prove that there is a contradiction in the remark after the other person's speech, press the Present button in the upper right corner to point out the contradiction.
+
+Choose 'Put pressure' if you want to dig into what has prompted the words and put pressure on the opponent.
+I recommend you that if the opponent and its surroundings react too bad, don't choose the 'Put pressure'. otherwise you may get a penalty.
+
+If you think too dangerous to put pressure more, select 'Stop' and you'll be back to first statement.
+
+Now, let's put a little more pressure on them and elicit remarks that we can dig into.</English>
+		<Japanese>相手の発言が終わった後,発言に矛盾があることを証明できる証拠物があるなら,右上段にある提示ボタンを押して矛盾を指摘します。
+
+言葉尻をとらえて相手をもっとあわてさせたいなら,「圧迫する」を選びます。
+圧迫を選択する時は,相手と周りの反応をよく見てから選択しなければなりません。 そうでなければ,信頼度が低下する危険があります。
+
+これ以上プレッシャーをかけることが危険だと判断されるときは,「辞め」を選択すると,最初の発言に戻ります。
+
+ここではもっとプレッシャーをかけて相手が染み込む余地のある発言をするよう誘導してみましょう。</Japanese>
+	</Text>
+	<Text key="tutot3">
+		<Korean>포인트압박</Korean>
+		<English>Pinpoint Pressure</English>
+		<Japanese>ポイント圧迫</Japanese>
+	</Text>
+	<Text key="tuto3">
+		<Korean>계속해서 말꼬리만 잡고 늘어지는 방식이 먹히지 않을때가 있습니다.
+그럴 때 필요한 것이 &lt;color="#FF3636"&gt;'포인트압박'&lt;/color&gt;입니다.
+
+지금까지 상대방을 압박하면서 화면에 조준점과 대사창에 뭔가가 계속해서 움직이고 있다는 점을 눈치채셨을거라 생각합니다.
+
+대사창 위에서 움직이는 것을 &lt;color="#FF3636"&gt;'포인터'&lt;/color&gt;라고 하고, 현재 김탐정이 곱씹고 있는 발언의 정확한 지점을 나타냅니다.
+
+포인터가 발언의 &lt;color="#FF3636"&gt;허술 한 부분에&lt;/color&gt;에 있을 때 상대방을 조준하고 있는 조준점을 누르면 발언의 약점을 파고들어 상대방을 패닉상태로 만들 수 있습니다.
+
+위크포인트가 아닌 곳에서 포인트압박을 해도 아무것도 일어나지 않고, 패널티도 없으니, 조금이라도 약점이라 생각된다면 주저없이 포인트압박을 시도해주세요.
+</Korean>
+		<English>When you can't go to the next step just by pressing the opponent, &lt;color="#FF3636"&gt;「Pinpoint pressures」&lt;/color&gt; will work.
+
+So far, you've noticed that there's a point of aim on the screen, and there's something moving on the the dialogue window.
+
+The thing moving on the the dialogue window is called &lt;color="#FF3636"&gt;「Pointer」&lt;/color&gt;, and pointing the exact point of the opponent's remarks that Kim is currently focusing on.
+
+When the pointer is on the weak point of the remark, tap the aiming point, and you can dig into the weakness of remark and panic the opponent.
+
+There is no penalty for point pressure, so please use it without hesitation.</English>
+		<Japanese>ずっと言葉尻だけをつかんで垂れる方式が通じない時があります。
+そんな時に必要なのが&lt;color="#FF3636"&gt;「ポイント圧迫」&lt;/color&gt;です。
+
+今まで相手を圧迫する間,画面に照準点と台詞ボックスに何か休まず動いていることに気付いたと思います。
+
+台詞ボックスで動くことを&lt;color="#FF3636"&gt;「ポインタ」&lt;/color&gt;と呼び,現在,金探偵がじっくり考えられている発言の正確な地点を示します。
+
+発言の中で,ポインタが&lt;color="#FF3636"&gt;「ウィークポイント」&lt;/color&gt;にいるとき,相手を狙っている照準点を押すと,発言の弱点を利用して相手をパニック状態に追込むことができます。
+
+「ウィークポイント」じゃないところで「ポイント圧迫」をしても何も起こらないです パネルティーもないので,少しでも弱点であると思われたら,迷わず「ポイント圧迫」を試みてください。</Japanese>
+	</Text>
+	<Text key="tutot4">
+		<Korean>패닉상태</Korean>
+		<English>Panic</English>
+		<Japanese>パニック状態</Japanese>
+	</Text>
+	<Text key="tuto4">
+		<Korean>포인트압박에 성공하면 상대방을 &lt;color="#FF3636"&gt;패닉상태&lt;/color&gt;에 빠트릴 수 있습니다.
+
+상대방이 패닉상태에 빠지면 스스로 무슨 말을 하고 있는지도 모르는 상태가 되어 주장하는 내용이 랜덤하게 나오게됩니다.
+그 중에는 모순된 내용이 있고, 해당 발언에 올바른 증거물로 모순을 지적해 마무리합니다.</Korean>
+		<English>Successful 「point compression」 can  make the opponent get into &lt;color="#FF3636"&gt;「panic」&lt;/color&gt;.
+
+When the opponent get into panic, they don't know what they're talking about, and say what they want talk randomly.
+There is a contradiction in those statements, and you finish by pointing out the contradiction with the right evidence for that statement.</English>
+		<Japanese>「ポイント圧迫」に成功すれば,相手を&lt;color="#FF3636"&gt;「パニック状態」&lt;/color&gt;に追込むことができます。
+
+相手がパニック状態に陥ると,自分でも自分が何を言っているのかもわからない状態になって主張する内容をランダムに言います。
+中には矛盾した内容があり,その発言に正しい証拠物を提示し,矛盾を指摘することで決着をつけます。</Japanese>
+	</Text>
+	<Text key="tutot5">
+		<Korean>찬반논의</Korean>
+		<English>Debate streak</English>
+		<Japanese>賛反論議</Japanese>
+	</Text>
+	<Text key="tuto5">
+		<Korean> &lt;color="#FF3636"&gt;찬반&lt;/color&gt;&lt;color="#4374D9"&gt;논의&lt;/color&gt;는 해답을 찾기위한 짧은 토론의 연속으로 구성되어 있습니다.
+
+매 토론의 주제가 오른쪽에 표시되고, 토론이 끝나기 전에 자신의 의견을 정해야합니다.
+
+화면의 왼쪽을 누르면 &lt;color="#FF3636"&gt;찬성&lt;/color&gt;을, 오른쪽을 누르면 &lt;color="#4374D9"&gt;반대&lt;/color&gt;의 진영을 선택할 수 있으며, 토론이 진행되는 중에는 자유롭게 바꿀 수 있습니다.
+토론이 끝났을때 선택한 진영의 의견을 표출합니다.
+
+계속해서 잘못된 선택을 해서, 논의의 방향이 이상한 곳으로 가게되면 패널티를 받을 수 있으니 주의해주세요.</Korean>
+		<English>&lt;color="#FF3636"&gt;「Debate streak」&lt;/color&gt; consist of a series of short debate to find out answers.
+
+The theme of each debate is displayed on the right side of the screen and you have to decide your side between pros and cons before the discussion is over.
+
+If you tap the left side of the screen, you can change your side to &lt;color="#FF3636"&gt;「pros」&lt;/color&gt; side and if you tap the right side of the screen, you can change your side to  &lt;color="#4374D9"&gt;「cons」&lt;/color&gt;.
+When the debate is over, you express your opinion of the selected side.
+
+Please note that if you make the wrong choice again and again, and the debate go wrong way, you may get a panelty."</English>
+		<Japanese>&lt;color="#FF3636"&gt;「賛反&lt;/color&gt;&lt;color="#4374D9"&gt;論議」&lt;/color&gt;は解答を見つけるための短い討論の連続で構成されています。
+
+各討論のテーマが画面の右側に表示され,討論が終わる前に自分の意見を決きるなければなりません。
+
+画面の左を押すと&lt;color="#FF3636"&gt;「賛成」&lt;/color&gt;の陣営を,右を押すと&lt;color="#4374D9"&gt;「反対」&lt;/color&gt;の陣営を選択でき,討論が行われる間は自由に変えることができます。
+討論が終わった時,選択した陣営の意見を言葉にします。
+
+続けて間違った選択をして,議論の方向がおかしいところへ行くようになるとパネルティが付与されることがありますので,ご注意ください。</Japanese>
+	</Text>
+	<Text key="tutot6">
+		<Korean>재고</Korean>
+		<English>Reconsideration</English>
+		<Japanese>再考</Japanese>
+	</Text>
+	<Text key="tuto6">
+		<Korean>가끔씩, 필요한 증거물이 없을 때가 있을 수 있습니다.
+이럴 때는 김탐정의 기억력을 사용하는 &lt;color="#FF3636"&gt;'재고'&lt;/color&gt;를 하게됩니다.
+
+재고는 지금까지 들었던 발언을 몇가지 추려내어, 그 중에서 현재 상황을 타파하는 데에 도움이 되는 발언을 찾아내는 시스템입니다.
+
+도움이 되는 발언을 찾았다면 &lt;color="#FF3636"&gt;왼쪽 상단&lt;/color&gt;의 버튼으로 선택합니다.</Korean>
+		<English>
+When you don't have necessary evidence, you are going to do &lt;color = "# FF3636"&gt; "reconsideration" &lt;/ color&gt; to use the memories of the K.
+
+Reconsideration is a system to pick out some of the remarks heard so far and to find out a useful remark to break down the current situation among them.
+
+When you find a helpful remark, select with the button on the upper left</English>
+		<Japanese>時々,必要な証拠物がない時があります。
+このような時は,金探偵の記憶力を使用する&lt;color="#FF3636"&gt;「再考」&lt;/color&gt;をすることになります。
+
+再考は今まで聞いた発言をいくつか選び出し,その中から現在の状況を打破するのに役立つ発言を見つけ出すシステムです。
+
+役立つ発言を見つけたら左上段のボタンで選択します。</Japanese>
+	</Text>
+</Root>

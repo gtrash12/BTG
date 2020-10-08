@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+ <A3학년6반>
+	<name>3학년6반</name>
+	<Move>복도</Move>
+  </A3학년6반>
+  <A3학년6반-밤>
+	<name>3학년6반-밤</name>
+  </A3학년6반-밤>
+  <A3학년7반>
+	<name>3학년7반</name>
+	<Move>복도</Move>
+	<Move>3학년6반</Move>
+  </A3학년7반>
+  <A복도>
+	<name>복도</name>
+	<Move>3학년6반</Move>
+	<Move>남자화장실</Move>
+	<Move>여자화장실</Move>
+	<Move Item="차임도,1">학생지도실</Move>
+	<Move Phase="Search1">3학년7반</Move>
+  </A복도>
+  <A남자화장실>
+	<name>남자화장실</name>
+	<Move>복도</Move>
+	<Move>여자화장실</Move>
+  </A남자화장실>
+  <A여자화장실>
+	<name>여자화장실</name>
+	<Move>복도</Move>
+	<Move>남자화장실</Move>
+  </A여자화장실>
+  <A학생지도실>
+	<name>학생지도실</name>
+	<Move>복도</Move>
+  </A학생지도실>
+</root>

@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <test>
+    <say name="김탐정" mot="카메라오프">
+      <text>/c-blue/내 이름은 김탐정./d:4/
+현재 나이는 스물 한 살 이다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/어린 시절 봤던 탐정만화에 감명받아 탐정을 동경하게 되었다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/나이먹고 한심하다 생각할 지 모르지만 성인이 된 지금까지도 내 가슴 속 정의감은 어린시절과 변함없다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/그저 순수한 탐정에 대한 동경만으로 지금의 내가 있는 것은 아니다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/지금의 나를 있게한 것은 내가 고등학교 3학년이었던 2년 전의 사건이다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/이야기의 시작은 프롤로그부터./d-4/
+지금의 /c-red/'영웅 김탐정'/c-blue/을 있게한 그 날의 사건에 대해 먼저 이야기 하도록하겠다.</text>
+    </say>
+    <say mot="카메라온" xsi:nil="true">
+      <text>
+      </text>
+    </say>
+    <say mot="시스템">
+      <text>/c-pupple/2024년 3월 11일 오전 7시 30분/d-5/
+정의고등학교 3학년 6반</text>
+    </say>
+    <say name="한나정" type="기본" mot="등장" xsi:nil="true">
+      <text>
+      </text>
+    </say>
+    <say name="한나정" type="기본" mot="???">
+      <text>어이, 대머리./d:4/ 너 그 얘기 들었냐?/d:4/
+옆 반의 차임도녀석 또 차였다더군.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c:blue/이 녀석의 이름은 한나정./d:5/
+여자같은 이름을 하고 있지만 엄연한 남자다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c:blue/눈매가 날카로워 무섭게 생겼지만 꽤 괜찮은 녀석이다.</text>
+    </say>
+    <say name="한나정" type="기본">
+      <text>내 말 듣고 있는거냐?</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>아니.</text>
+    </say>
+    <say name="한나정" type="기본">
+      <text>하…/d:4/ 그러니까 옆반의 차임도녀석 또 차였다 하더라고.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그 녀석은 더 차여도 싸.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c-blue/지금 대화의 주제인 차임도는 옆 반의 학생으로 고등학교 입학한 순간부터 지금까지 한 여자에게 끝없는 구애를 해오고 있는 녀석이다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c-blue/그 짓을 지난 2년간 하다보니 이제 전교생이 알 정도로 유명인이다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그 녀석이 그러는 게 하루이틀 일도 아니고 뭐 어때?</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>음…/d-5//t-drop/ 아냐!/t- //d-5/
+올해 첫 실연이라는 큰 의미가 있군!</text>
+    </say>
+    <say name="한나정" type="기본">
+      <text>올해도 포기하지 않을 생각인가…/d-4/
+지치지도 않는 녀석이야./d-4/
+그녀석 이번에 차인걸로 벌써 30번째라고.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>엑?! 입학하고 매달 고백했어도 24번이 한계일텐데 모르는 새에 그렇게나 차였던거냐…
+짠하구나…./d-4/
+그런데 용케 30번이나 차인 걸 알았네?</text>
+    </say>
+    <say name="한나정" type="기본">
+      <text>뭐,/d-4/ 그야 유명하니까 어쩌다 보니 알게됐지.</text>
+    </say>
+    <say name="한나정">
+      <text>음…</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>왜그래?</text>
+    </say>
+    <say name="한나정" type="기본">
+      <text>화장실에 좀 다녀와야 겠다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>아침부터 뭐냐?</text>
+    </say>
+    <say name="한나정" type="기본" mot="퇴장끝">
+      <text>시,/d-4/ 시끄러./d-4/
+난 간다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c-blue/나정이는 가방에서 뭔가를 챙겨 뛰어갔다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>녀석 많이 급했나보군./d-4/
+하지만 휴지는 잊지 않았어./d-4/ 치밀한 녀석이야.</text>
+    </say>
+    <say name="나미녀" type="기본" mot="등장">
+      <text>/r-40/</text>
+    </say>
+    <say name="나미녀" type="기본" mot="???">
+      <text>언제나 사이가 좋네?</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그렇지. 우리 사이엔 지난 2년간 축적된 우정과 신뢰가 있으니 말이야.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>올해도 두터운 우정의 교감을 이어갈 예정이지.</text>
+    </say>
+    <say name="나미녀" type="기본" mot="???">
+      <text>나정이 피곤하겠네…</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c-blue/이 녀석의 이름은 나미녀다.
+밝은 성격과 괜찮은 외모 덕에 인기가 많은 녀석이다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/c-blue/조금 전까지 나정이와 대화했던 차임도의 끈질긴 사랑의 대상이기도 하다.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그나저나 차임도가 또 고백했다며?</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>그게 벌써 소문이 난거야?/d-4/
+그런 소문은 도대체 누가 알아내서 퍼트리는 건지 참…./d-4/
+아무에게도 말하지 않았는데 말야.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/t-drop/No,/d-2/ No,/d-2/ No./d-2/
+/t- /이건 명탐정이신 이 몸의 뛰어난 정보수집능력의 결과지 결코 소문이 전교에 퍼진 것은 아냐.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그래서 어때?/d-4/
+이번에야 말로 차임도가 떨어져나갈 것 같아?</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>글쎄…./d-4/
+워낙 집요한 애라서 말야.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>차라리 확 사귀어버리는 건 어때?</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>역시 그건 좀….</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>역시 너도 그렇게 생긴 녀석은 싫지?</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>아냐, 그런게 아니라…./d-4/
+난 이미 좋아하는 사람이 있는걸.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/t-drop/응!?/d-4/
+/t- /뭐야 그게 처음듣는 소린데.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그렇다면 차임도에게 좋아하는 사람이 있다고 하면 되잖아.</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>그게…/d-4/ 뭔가 걸리는게 있어서 말이야./d-4/
+비밀로 하고있어.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/t-drop/말로만 듣던 어장관리란 건가!</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>/t-drop/그런 거 아니라구!</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>그냥…./d-4/ 뭐랄까 숨겨야만 할 것 같은 그런 느낌이 들어.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>나에게 탐정의 직감이 있듯이 너에겐 소녀의 직감이 있다 이런 건가!</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>뭐,/d-4/ 그 비슷한 거지.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>/t-drop/그렇군!/t- //d-4/
+그렇다면 더 이상 이 일에 대해 왈가왈부하지 않아주겠어.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>그나저나 아까부터 신경쓰이는데.
+손에 그건 뭔데 정신사납게 계속 돌리고 있는거야?</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>어때?/d-4/ 귀엽지?/d-4/
+아까 주운거야.</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>글쎄 딸기모양이라니.
+네 덩치에 쓰기엔 너무 유아틱 한 것 같은데….</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>…./d-4/
+너무한 말을 아무렇지도 않게 하네…</text>
+    </say>
+    <say name="김탐정" type="기본">
+      <text>명탐정으로써의 객관적 시선으로 봤을 때의 사실을 말해줬을 뿐이야.</text>
+    </say>
+    <say type="기본">
+      <text>/t-drop/꺄아아아아아아악!!!</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>/t-drop/방금 그 소린?!</text>
+    </say>
+    <say name="김탐정" type="기본" mot="퇴장끝">
+      <text>/t-drop/옆반이야/d-4/ 가보자!</text>
+    </say>
+    <say type="기본">
+      <text>/m-3학년7반/</text>
+    </say>
+    <say type="기본" mot="시스템">
+      <text>/c-pupple/2024년 3월 11일 오전 7시 40분/d-5/
+정의고등학교 3학년 7반</text>
+    </say>
+    <say name="차임도" type="화남" mot="???">
+      <text>/t-drop/나, 나! 아니라고!!!!!/d-4/
+왜 날 의심하는 거냐고!!!</text>
+    </say>
+    <say name="김탐정">
+      <text>매우 소란스럽네…</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>그, 그러게…
+무슨일이지.</text>
+    </say>
+    <say name="차임도" type="화남">
+      <text>/t-drop/미녀에 대한 내 사랑을 걸고 아니라고오오오옷!!!!!!!!!</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/저기서 미쳐 날뛰고 있는 녀석이 소문의 차임도다./d-4/
+드디어 정신줄을 놓고 소음공해 수준으로 돼지 멱을 따고있다.</text>
+    </say>
+    <say name="차임도" type="화남">
+      <text>/t-drop/아! 정말!!!!!/d-4/
+난 정말 아니라니까!!! 이건 음모라고!!!
+억울하다 고오오오오오오옷!!!!!!!!!</text>
+    </say>
+    <say name="김탐정">
+      <text>저 녀석 저거 드디어 미쳤군.</text>
+    </say>
+    <say name="김탐정">
+      <text>어이,/d-4/ 무슨일이야?</text>
+    </say>
+    <say name="나미녀" type="기본">
+      <text>타,/d-4/ 탐정아…</text>
+    </say>
+    <say name="김탐정">
+      <text>왜그래?</text>
+    </say>
+    <say mot="이미지오프">
+      <text>/m-3학년7반사물함/</text>
+    </say>
+    <say name="나미녀" mot="목소리">
+      <text>/t-drop/사람이 죽어있어!!!!!!!!</text>
+    </say>
+    <say name="김탐정">
+      <text>/t-drop/뭐어어어?!!!!!!!!!!!!!!!</text>
+    </say>
+    <say mot="페이드전환">
+      <text>/mq3학년6반/</text>
+    </say>
+    <say mot="시스템">
+      <text>/c-pupple/2024년 3월 11일 오전 8시 30분/d-5/
+정의고등학교 3학년 6반</text>
+    </say>
+    <say name="담임">
+      <text>오늘은 학교에 불미스러운 사건이 있으니 다들 일찍 집에 들어가라.</text>
+    </say>
+    <say name="담임">
+      <text>딴길로 새면 절대 안돼.</text>
+    </say>
+    <say name="아이들">
+      <text>네…</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/평소 같았으면 이 소리를 듣고 신나서 날뛰고 있을 녀석들이지만. 다들 목소리가 가라앉아있다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/바로 옆 교실에서 살인사건이 일어났으니 혼란스럽고 불안할 것이다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/현재 3학년7반은 형사들의 조사를 받고 있는 모양이다.</text>
+    </say>
+    <say name="김탐정">
+      <text>/c-blue/아이들이 모두 짐을 싸서 나가고 있다.
+복도를 지나가며 7반의 상황을 힐끔힐끔 보는 것도 잊지않는다.</text>
+    </say>
+    <say name="김탐정">
+      <text>나도 이만 움직여 볼까?</text>
+    </say>
+    <say name="한나정" type="기본" mot="등장" xsi:nil="true">
+      <text>
+      </text>
+    </say>
+    <say name="한나정">
+      <text>이거 엄청난 일이 벌어졌군.</text>
+    </say>
+    <say name="김탐정">
+      <text>그러게말야. 그런데 너 그동안 뭘 한거야?</text>
+    </say>
+    <say name="한나정">
+      <text>응?</text>
+    </say>
+    <say name="김탐정">
+      <text>너 아까 화장실에 가고부터 벌써 1시간이 지났잖아.
+왜 이렇게 늦게 온거야?</text>
+    </say>
+    <say name="김탐정">
+      <text>사건이 일어났는데 조수가 자릴 비우면 안되지!</text>
+    </say>
+    <say name="한나정">
+      <text>몰라…. 변비인지 잘 안나오는 데 어떡하라고.</text>
+    </say>
+    <say name="한나정">
+      <text>그리고 내가 언제부터 네 조수였냐.</text>
+    </say>
+    <say name="김탐정">
+      <text>뭐, 됐어!
+지금은 바쁘니 어서 움직여.</text>
+    </say>
+    <say name="한나정">
+      <text>뭘 하려고..?</text>
+    </say>
+    <say name="김탐정">
+      <text>이 사건의 진상을 파헤치는 것임이 당연하잖아?
+너 내가 누군지 잊은거냐?</text>
+    </say>
+    <say name="한나정">
+      <text>하…/d-4/ 정신 좀 차려라…/d-4/
+넌 그냥 멍청한 고3이라고.</text>
+    </say>
+    <say name="김탐정">
+      <text>어허! 말이 많다!
+명탐정의 대뷔 무대를 화려하게 장식하려면 뛰어다녀도 부족해!
+어서가자!</text>
+    </say>
+    <say name="한나정">
+      <text>하….</text>
+    </say>
+  </test>
+</root>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <A3학년6반>
+    <Area>3학년6반</Area>
+    <position>(3.8, 1.9, -10.3)</position>
+    <rotation>(8.0, 330.0, 0.0)</rotation>
+  </A3학년6반>
+  <A3학년7반>
+    <Area>3학년7반</Area>
+    <position>(27.7, 2.2, -4.6)</position>
+    <rotation>(12.4, 271.1, 0.1)</rotation>
+  </A3학년7반>
+  <A3학년7반사물함>
+    <Area>3학년7반</Area>
+    <position>(21.7, 0.7, -3.1)</position>
+    <rotation>(31.2, 288.4, 6.3)</rotation>
+  </A3학년7반사물함>
+  <A복도>
+    <Area>복도</Area>
+    <position>(17.9, 1.8, -19.8)</position>
+    <rotation>(6.2, 0.0, 0.0)</rotation>
+  </A복도>
+  <A남자화장실>
+    <Area>남자화장실</Area>
+    <position>(9.3, 1.8, -26.7)</position>
+    <rotation>(6.2, 182.4, 0.0)</rotation>
+  </A남자화장실>
+  <A여자화장실>
+    <Area>여자화장실</Area>
+    <position>(20.7, 1.8, -26.8)</position>
+    <rotation>(6.2, 163.8, 0.0)</rotation>
+  </A여자화장실>
+  <A학생지도실>
+    <Area>학생지도실</Area>
+    <position>(39.6, 2.0, -31.6)</position>
+    <rotation>(8.3, 247.4, 359.4)</rotation>
+  </A학생지도실>
+  <A3학년6반-밤>
+    <Area>3학년6반-밤</Area>
+    <position>(-17.3, 1.9, -5.5)</position>
+    <rotation>(13.4, 318.5, 0.0)</rotation>
+  </A3학년6반-밤>
+  <Asd>
+    <Area>asd</Area>
+    <position>(9.5, 1.8, -15.6)</position>
+    <rotation>(6.2, 182.4, 0.0)</rotation>
+  </Asd>
+</root>
